@@ -44,7 +44,7 @@ If time permits, we want to generate various experiences for the same initial gu
 
 - Docker and docker-compose must be installed
 - An account on hub.docker.com would save you from unforeseen errors
-
+- Generate and save your Personal access token with you (This is used as password in the terminal). [See this for reference](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 #### Steps:
 
 1. Clone the repository using `git clone https://github.com/tabdar-khan/adlr_team_11.git`
